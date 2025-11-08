@@ -1,3 +1,9 @@
+# *** NOTE: This repo now live here:
+
+# https://github.com/mikeoliphant/Stompbox
+
+-------
+
 # What is it?
 
 Stompbox is a guitar amplification and effects library.
