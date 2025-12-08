@@ -1,4 +1,4 @@
-# *** NOTE: This repo now live here:
+# *** NOTE: This repo now lives here:
 
 # https://github.com/mikeoliphant/Stompbox
 
